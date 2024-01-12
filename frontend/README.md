@@ -9,7 +9,7 @@ yarn
 yarn dev
 ```
 
-- Jalankan perintah berikut untuk backen
+- Jalankan perintah berikut untuk backend
 
 ```bash
 cd backend
